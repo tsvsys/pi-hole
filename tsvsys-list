@@ -1,0 +1,22 @@
+# Personal Blocklist by tsvsys @ github
+# Content added to this list has been manually verified, and is updated irregularly
+
+# ads
+https://analyticsengine.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+# error trackers
+https://api.bugsnag.com
+https://app.bugsnag.com
+https://browser.sentry-cdn.com
+# social trackers
+https://advertising.twitter.com
+https://widgets.pinterest.com
+https://d.reddit.com
+# oem
+https://metrics.data.hicloud.com
+https://metrics1.data.hicloud.com
+https://metrics2.data.hicloud.com
+https://metrics5.data.hicloud.com 
+https://samsung-com.112.2o7.net
+
