@@ -45,3 +45,30 @@ sdkconfig.ad.intl.xiaomi.com
 # Android TV (including Nvidia Shield TV)
 androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
+
+# Sony Bravia
+# needed for applications
+# needed for applications, if blocked error "no internet connection"
+#applicast.ga.sony.net
+#portal.store.sonyentertainmentnetwork.com
+ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+#reg.biv.sony.tv # https://github.com/notracking/hosts-blocklists/issues/384
+#service.biv.sony.tv # https://github.com/notracking/hosts-blocklists/issues/384
+#ssm1.internet.sony.tv # https://github.com/notracking/hosts-blocklists/issues/384
+#ssm2.internet.sony.tv # https://github.com/notracking/hosts-blocklists/issues/384
+#ssm3.internet.sony.tv # https://github.com/notracking/hosts-blocklists/issues/384
+#update.biv.sony.tv # required for updates
+api-mf1.meta.ndmdhs.com
+b02.black.ndmdhs.com
+bravia.dl.playstation.net
+call.me.sel.sony.com
+flingo.tv
+sonybivstatic-a.akamaihd.net
+facemap.foldlife.net
+bdcore-apr-lb.bda.ndmdhs.com
+tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
+api.cid.samba.tv
+#platform.cid.samba.tv #See Toshiba
+preferences.cid.samba.tv
+bravia-cfgdst-ore-pro.bda.ndmdhs.com
